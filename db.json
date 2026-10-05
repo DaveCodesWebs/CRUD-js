@@ -1,0 +1,113 @@
+{
+  "iphones": [
+    {
+      "name": "111",
+      "id": "28"
+    },
+    {
+      "name": "111",
+      "id": "29"
+    },
+    {
+      "name": "111",
+      "id": "30"
+    },
+    {
+      "id": "31",
+      "name": "iPhone SE 2020",
+      "storage": "64GB",
+      "ram": "3GB",
+      "refreshRate": "60Hz",
+      "price": 280
+    },
+    {
+      "id": "33",
+      "name": "iPhone 14 Pro Max",
+      "storage": "1TB",
+      "ram": "6GB",
+      "refreshRate": "120Hz",
+      "price": 1400
+    },
+    {
+      "id": "34",
+      "name": "iPhone 13",
+      "storage": "256GB",
+      "ram": "4GB",
+      "refreshRate": "60Hz",
+      "price": 780
+    },
+    {
+      "id": "35",
+      "name": "iPhone 12",
+      "storage": "128GB",
+      "ram": "4GB",
+      "refreshRate": "60Hz",
+      "price": 550
+    },
+    {
+      "id": "36",
+      "name": "iPhone 11",
+      "storage": "64GB",
+      "ram": "4GB",
+      "refreshRate": "60Hz",
+      "price": 350
+    },
+    {
+      "id": "37",
+      "name": "iPhone XR",
+      "storage": "128GB",
+      "ram": "3GB",
+      "refreshRate": "60Hz",
+      "price": 330
+    },
+    {
+      "id": "38",
+      "name": "iPhone XS Max",
+      "storage": "512GB",
+      "ram": "4GB",
+      "refreshRate": "60Hz",
+      "price": 500
+    },
+    {
+      "id": "iUHPHJvbMNo",
+      "name": "1",
+      "storage": "1",
+      "ram": "1",
+      "refreshRate": "1",
+      "price": 1
+    },
+    {
+      "name": "",
+      "storage": "3",
+      "ram": "3",
+      "refreshRate": "3",
+      "price": 3,
+      "id": "T8himaI3uT8"
+    },
+    {
+      "id": "MO0JLptEswg",
+      "name": "1",
+      "storage": "1",
+      "ram": "1",
+      "refreshRate": "1",
+      "price": 1
+    },
+    {
+      "id": "enBMMzRnTqk",
+      "name": "",
+      "storage": "",
+      "ram": "",
+      "refreshRate": "",
+      "price": 0
+    },
+    {
+      "id": "6Wl8DArMlww",
+      "name": "2",
+      "storage": "2",
+      "ram": "2",
+      "refreshRate": "2",
+      "price": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
